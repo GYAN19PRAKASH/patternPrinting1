@@ -1,0 +1,2 @@
+# patternPrinting1
+question
